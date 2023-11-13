@@ -5,6 +5,7 @@
   "background_color": "#212C3B",
   "display": "minimal-ui",
   "Scope": "/",
+  "id":"/#!/inicio",
   "start_url": "/#!/inicio",
   "icons": [
     {
